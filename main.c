@@ -1,3 +1,6 @@
 #include <stdio.h>
 
-int main() {}
+#include <windows.h>
+int main() { printf("Hello"); return 0; }
+
+
